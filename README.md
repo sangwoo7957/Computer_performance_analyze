@@ -1,5 +1,5 @@
 # Computer_performance_analyze
-- 컴퓨터의 성능을 종합하여 어떠한 차이가 있는지 알아보기 위한 프로젝트
+- 컴퓨터의 성능들을 종합하여 어떠한 특징을 지니는 지 분석하기 위해 진행한 프로젝트
 
 # Requirements
 - requests
