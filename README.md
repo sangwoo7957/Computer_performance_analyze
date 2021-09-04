@@ -1,5 +1,5 @@
 # Computer_performance_analyze
-## 컴퓨터의 가격에 따라 성능의 차이는 어떤지 분석하기 위해 진행한 프로젝트
+- 컴퓨터의 가격에 따라 성능의 차이는 어떤지 분석하기 위해 진행한 프로젝트
 
 # Requirements
 - requests
@@ -18,7 +18,6 @@
    - 각 군집 별로 나누어 성능 비교
    - matplotlib을 사용하여 그래프 생성
 # Result
-## 결과
    - 가격이 비쌀수록 hardware의 성능이 높은 것을 알 수 있다
    - 다른 성능(Speed, ram etc)은 거의 다 비슷한 것을 알 수 있다
 
